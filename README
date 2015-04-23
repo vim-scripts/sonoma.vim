@@ -1,8 +1,10 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4072
 
-An easy-breezy color theme that acts as a soothing balm for your eyes.
+An easy-breezy colorscheme that acts as a soothing balm for your eyes by capturing the look and feel of Xcode with a light background.
 
-Everyone likes to see screenshots ~> http://biditm.users.sourceforge.net/etc/vim_colorschemes.png
+First, check out the screenshot ~> http://biditm.users.sourceforge.net/vim/sonoma.png
 
-Grab my .vimrc ~> http://biditm.users.sourceforge.net/etc/_vimrc
+Then, check out the Syntax Highlight Test ~> http://biditm.users.sourceforge.net/vim/sonoma.pdf
+
+Grab my .vimrc ~> http://biditm.users.sourceforge.net/vim/_vimrc
 
